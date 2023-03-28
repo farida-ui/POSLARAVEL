@@ -29,7 +29,7 @@
     
 <body onload="window.print()">
 <div class="container">
-    <h2 align="center">LaraMart</h2>
+    <h2 align="center">Kasir Witpari</h2>
     <p class="tagline">Jl. Raya Solo-Tawangmangu</p>
 
     <table border="1" cellspacing="0" align="center" width="90%" style="font-size: 12px">

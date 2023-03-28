@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Laramart</title>
+  <title>Kasir Witpari</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
   @yield('header')
@@ -176,7 +176,7 @@
   
   <!-- /.content-wrapper -->
   <footer class="main-footer">
-    <strong>Laramart &copy; 2021-2022</strong>
+    <strong>Kasir Witpari &copy; 2021-2022</strong>
     All rights reserved.
     <div class="float-right d-none d-sm-inline-block">
       <b>Version</b> 3.0.4

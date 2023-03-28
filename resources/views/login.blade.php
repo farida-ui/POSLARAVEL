@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Laramart | Log in</title>
+  <title>Kasir Witpari | Log in</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- Font Awesome -->
@@ -21,7 +21,7 @@
 <body class="hold-transition login-page">
 <div class="login-box" style="margin-top: -100px">
   <div class="login-logo">
-    <a href="/"><b>Lara</b>mart</a>
+    <a href="/"><b>Kasir</b>Witpari</a>
   </div>
   <!-- /.login-logo -->
   <div class="card">
